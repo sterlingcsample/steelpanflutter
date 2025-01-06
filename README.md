@@ -1,13 +1,8 @@
-# steelpanflutter
-steelpantutor
-SteelPanTutor Flutter App
-The SteelPanTutor Flutter App is a versatile cross-platform application designed to teach and simulate the steelpan instrument. It features an intuitive interface for playing notes, learning techniques, and saving user preferences. The app offers multilingual support, dynamic theme modes, and advanced playback visualizations to enhance the user experience.
+# steelpantutor
+steelbandtutor
 
-Built with Flutter, SteelPanTutor ensures seamless performance across Android, iOS, and desktop platforms, making it an ideal tool for both beginners and enthusiasts eager to explore the captivating sounds of the steelpan.
+**SteelPanTutor Flutter App**  
+The SteelPanTutor App is a comprehensive cross-platform application that brings the world of steelpan and other instruments to your fingertips. Designed for both learning and performance, the app features multiple instruments, MIDI file import, and playback capabilities, allowing users to explore and create music effortlessly.  
 
-
-
-
-
-
+With its intuitive interface, dynamic theme options, multilingual support, and advanced playback visualizations, SteelPanTutor provides a rich and immersive musical experience. Built using Flutter, the app ensures seamless functionality across Android, iOS, and desktop platforms, making it the perfect tool for music enthusiasts and professionals.
 
